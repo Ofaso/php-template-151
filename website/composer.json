@@ -1,0 +1,12 @@
+{
+    "name": "ihrname/Datenbankprojekt",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ofaso\\": "src/"
+        }
+    },
+    "require": {
+        "swiftmailer/swiftmailer": "v5.4.*"
+    }
+}
