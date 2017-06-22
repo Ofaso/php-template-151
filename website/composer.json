@@ -1,5 +1,5 @@
 {
-    "name": "Datenbankprojekt",
+    "name": "ihrname/Datenbankprojekt",
     "type": "project",
     "autoload": {
         "psr-4": {
